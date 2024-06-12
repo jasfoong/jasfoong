@@ -1,6 +1,6 @@
 ## Hello! 你好! ¡Hola! 👋
 
-🔭 Currently looking for work as a junior developer <br />
+🎥 I'm Jasmine - a journalist/marketer turned developer <br />
 🎸 Curious about everything. Passionate about urban tech, guitar, calisthenics, and yoga <br />
 🧚‍♂ BrainStation graduate <br />
 🌍 Dream job: engineering at Spotify <br />
