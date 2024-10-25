@@ -1,9 +1,8 @@
-## Hello! 你好! ¡Hola! 👋
+## Hello! 👋
 
 🎥 I'm Jasmine - a digital marketer turned developer <br />
-🌍 Based in Vancouver, bred in Malaysia <br />
-🧚‍♂ Curious about everything. Passionate about sustainable cities, AI, and all things data <br />
-🎸 Hobbies include shredding guitar & chasing that yoga bliss <br />
-🌈 she/her <br />
+🌍 Currently based in Vancouver, my early experiences in journalism & digital media have sparked a curiosity about life on Earth and a deep passion to preserve it. I hope to leverage my programming skills to advance climate technology and contribute to sustainable solutions for our planet. I'm most excited by ideas around data engineering in the development of livable and climate-resilient cities.
+
+Skills: HTML, CSS, JavaScript, TypeScript, React, NodeJS, Express, SQL, Python, Django, Git, API development, BigQuery, Tableau, R
 
 <p align="right">Apps I've made 👇</p>
